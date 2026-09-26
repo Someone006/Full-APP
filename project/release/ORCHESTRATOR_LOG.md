@@ -14,3 +14,5 @@ Failed reviews are never removed.
 | 7 | 2026-09-26 | Judge verdict on v2 | Judge 1 | `judges/judge-01-opportunity-research-v2.md` | PASS (open: J1-013 MEDIUM, J1-014..016 LOW) |
 | 8 | 2026-09-26 | v2 APPROVED and frozen; J1-013 forwarded to Agent 2 as a validation question | Orchestrator | `research/opportunity-research-v2.md` | Approved |
 | 9 | 2026-09-26 | Assignment: market & competitive validation of O1, O2, O4 | Agent 2 | `research/market-validation-v1.md` | In progress |
+| 10 | 2026-09-26 | Market validation delivered | Agent 2 | `research/market-validation-v1.md` | Delivered |
+| 11 | 2026-09-26 | Judge evaluation requested | Judge 2 | v1 | In progress |
