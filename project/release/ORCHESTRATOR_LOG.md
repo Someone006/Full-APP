@@ -23,3 +23,5 @@ Failed reviews are never removed.
 | 16 | 2026-09-26 | Judge verdict on v2 | Judge 2 | `judges/judge-02-market-validation-v2.md` | PASS (open: J2-009, J2-010 LOW) |
 | 17 | 2026-09-26 | Market validation v2 APPROVED and frozen | Orchestrator | `research/market-validation-v2.md` | Approved |
 | 18 | 2026-09-26 | Assignment: SaaS product strategy | Agent 3 | `strategy/product-strategy-v1.md` | In progress |
+| 19 | 2026-09-26 | Strategy delivered: O1 CRA workspace chosen; O2 fallback behind gate G-V3; O4 watchlist | Agent 3 | `strategy/product-strategy-v1.md` | Delivered |
+| 20 | 2026-09-26 | Judge evaluation requested | Judge 3 | v1 | In progress |

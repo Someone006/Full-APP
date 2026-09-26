@@ -15,3 +15,8 @@ agents can judge feasibility and testability. These are not product decisions.
 | ENV-008 | No SMTP provider credentials available in this session | — | 2026-09-26 |
 | ENV-009 | Docker CLI present; daemon not verified | `docker info` | 2026-09-26 |
 | ENV-010 | Repository started empty (no existing code) | `git status` | 2026-09-26 |
+| ENV-011 | CISA KEV JSON feed reachable; catalogVersion 2026.09.25, 1,726 entries (imported from Strategy S3-C1) | Agent 3 check | 2026-09-26 |
+| ENV-012 | OSV per-ecosystem bulk exports (`osv-vulnerabilities.storage.googleapis.com/<eco>/all.zip`) reachable for npm, PyPI, Maven, Go, crates.io, NuGet, RubyGems, Packagist; npm export ≈217 MB compressed (S3-C2) | Agent 3 check | 2026-09-26 |
+| ENV-013 | `npm sbom` produces CycloneDX 1.5 and SPDX 2.3 JSON with a purl on every component (S3-C3) | Agent 3 check | 2026-09-26 |
+| ENV-014 | OSV `POST /v1/querybatch` returns real advisories for SBOM purls (S3-C4) | Agent 3 check | 2026-09-26 |
+| ENV-015 | GOV.UK bank-holidays JSON reachable (S3-C6) | Agent 3 check | 2026-09-26 |
