@@ -16,3 +16,5 @@ Failed reviews are never removed.
 | 9 | 2026-09-26 | Assignment: market & competitive validation of O1, O2, O4 | Agent 2 | `research/market-validation-v1.md` | In progress |
 | 10 | 2026-09-26 | Market validation delivered | Agent 2 | `research/market-validation-v1.md` | Delivered |
 | 11 | 2026-09-26 | Judge evaluation requested | Judge 2 | v1 | In progress |
+| 12 | 2026-09-26 | Judge verdict | Judge 2 | `judges/judge-02-market-validation-v1.md` | FAIL (1 HIGH, 2 MEDIUM, 5 LOW) |
+| 13 | 2026-09-26 | v1 frozen; findings J2-001..J2-008 returned for revision | Orchestrator → Agent 2 | v2 requested | In progress |
